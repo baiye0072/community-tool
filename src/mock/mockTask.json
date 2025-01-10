@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2024-08-28",
+        "name": "任务1",
+        "description": "详细描述",
+        "servicePatternKind": "安防服务",
+        "state": 3
+    },
+    {
+        "date": "2024-08-28",
+        "name": "任务2",
+        "description": "详细描述",
+        "servicePatternKind": "安防服务",
+        "state": 1
+    },
+    {
+        "date": "2024-08-28",
+        "name": "任务3",
+        "description": "详细描述",
+        "servicePatternKind": "安防服务",
+        "state": 3
+    },
+    {
+        "date": "2024-08-28",
+        "name": "任务4",
+        "description": "详细描述",
+        "servicePatternKind": "安防服务",
+        "state": 3
+    }
+]

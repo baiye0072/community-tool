@@ -1,0 +1,349 @@
+[
+  {
+    "fileId": 1,
+    "societyPattern": "党建社区模式",
+    "data": {
+      "text": "社区实例1",
+      "expand": true,
+      "isActive": false,
+      "uid": "9796a1bc-640b-4ef2-98ec-5233325426b5"
+    },
+    "children": [
+      {
+        "data": {
+          "text": "服务特征",
+          "expand": true,
+          "isActive": false,
+          "uid": "4580afed-7f39-4cfc-8ee8-be8347a1b059",
+          "generalization": []
+        },
+        "children": [
+          {
+            "data": {
+              "text": "智慧社区类服务",
+              "uid": "4e6d05b5-aa67-4f6b-9eb6-509a3eb4e283",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "文体活动",
+              "uid": "021e86f9-1d11-43e1-939d-3ba835cd38a9",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "养老服务",
+              "uid": "02b5e9fb-cf01-4a34-ac92-f26814052169",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "安防服务",
+              "uid": "9ff6da44-bde4-4118-a4ef-417a845751fb",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "物业服务",
+              "uid": "1dee2a6b-da11-4fe9-818e-f648dc553226",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "组织特征",
+          "expand": true,
+          "isActive": false,
+          "uid": "d340b20f-601b-4cd4-ab16-04ae00cf7ae6"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "居委会",
+              "uid": "cd426637-733a-4c24-89a0-213ed2fdbaf3",
+              "expand": true,
+              "richText": false,
+              "isActive": false,
+              "generalization": [
+                {
+                  "text": "1个",
+                  "range": null,
+                  "uid": "fdd7064b-582c-418e-b5d2-924de5a6b873",
+                  "richText": false,
+                  "isActive": false,
+                  "expand": true
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "业委会",
+              "uid": "fcff9b69-8fc8-4c55-a500-5e5bc3198ec6",
+              "expand": true,
+              "richText": false,
+              "isActive": false,
+              "generalization": [
+                {
+                  "text": "1个",
+                  "range": null,
+                  "uid": "f993e327-c4c6-4349-a038-6b59692f7ca4",
+                  "richText": false,
+                  "isActive": false,
+                  "expand": true
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "党组织",
+              "uid": "6b6f6b1c-6e61-4868-8f31-f9823d1f20fb",
+              "expand": true,
+              "richText": false,
+              "isActive": false,
+              "generalization": [
+                {
+                  "text": "1个",
+                  "range": null,
+                  "uid": "d6cc6562-1a3f-4017-a57d-3a166a96ebdc",
+                  "richText": false,
+                  "isActive": false,
+                  "expand": true
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "物业公司",
+              "uid": "80e37963-7e06-44b1-818c-febf5e7df72e",
+              "expand": true,
+              "richText": false,
+              "isActive": false,
+              "generalization": [
+                {
+                  "text": "1个",
+                  "range": null,
+                  "uid": "bf2ee550-5986-41a6-89a4-48df25cb6953",
+                  "richText": false,
+                  "isActive": false,
+                  "expand": true
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "社区文化团",
+              "uid": "1db70dde-07ff-4448-92fc-9c592152c493",
+              "expand": true,
+              "richText": false,
+              "isActive": false,
+              "generalization": [
+                {
+                  "text": "13个",
+                  "range": null,
+                  "uid": "962a8b88-35b1-456c-abe1-0830138a6831",
+                  "richText": false,
+                  "isActive": false,
+                  "expand": true
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "社区支援组织",
+              "uid": "b1586168-c0a3-4e0b-aa02-17b00ff39fd1",
+              "expand": true,
+              "richText": false,
+              "isActive": false,
+              "generalization": [
+                {
+                  "text": "7个",
+                  "range": null,
+                  "uid": "2312536a-6195-4bea-a66f-b9609850b5bb",
+                  "richText": false,
+                  "isActive": false,
+                  "expand": true
+                }
+              ]
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "资源特征",
+          "expand": true,
+          "isActive": false,
+          "uid": "3e668778-0627-44ab-aa34-064bf7a76bb3"
+        },
+        "children": [
+          {
+            "data": {
+              "text": "人力资源",
+              "uid": "3a90ac23-3265-43ae-9b59-2bdfacc1059f",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "资金资源",
+              "uid": "211cb84e-d784-4af6-8a6e-6f89bd335379",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "场地资源",
+              "uid": "b7dc6b11-d1e0-4e6d-b7aa-af899f73f631",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "环境资源",
+              "uid": "449bd8a9-cec9-4b4a-8ca8-74e70095ea63",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "data": {
+          "text": "人口特征",
+          "uid": "e89e766f-36dd-450e-a1a8-74e24ce5fad2",
+          "expand": true,
+          "richText": false,
+          "isActive": false
+        },
+        "children": [
+          {
+            "data": {
+              "text": "社区人数",
+              "uid": "2baa118e-1186-4bb7-8bc4-e85e405baa9e",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "社区老年人数",
+              "uid": "2b327d57-6bf6-449f-9f27-3df5ace50dda",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "社区学历分布",
+              "uid": "ed3446e6-0508-4c99-aa5a-c8ac764e4d32",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "社区常驻人口人数",
+              "uid": "114cfc77-c124-464b-897e-af79a782628c",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          },
+          {
+            "data": {
+              "text": "人口年龄结构",
+              "uid": "a1175e21-881d-4406-a098-3bc577c0f202",
+              "expand": true,
+              "richText": false,
+              "isActive": false
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  
+  },
+  {
+    "fileId": 2,
+    "societyPattern": "安防社区模式",
+    "data": {
+      "text": "安防社区模式",
+      "expand": true,
+      "isActive": true
+    },
+    "children": [
+      {
+        "data": {
+          "text": "服务特征",
+          "expand": true,
+          "isActive": true
+        }
+      },
+      {
+        "data": {
+          "text": "组织特征",
+          "expand": true,
+          "isActive": true
+        }
+      },
+      {
+        "data": {
+          "text": "资源特征",
+          "expand": true,
+          "isActive": true
+        }
+      }
+    ]
+  }
+]
